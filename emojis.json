@@ -1,0 +1,19 @@
+{
+  "Happy": [
+    { "emoji": "😄", "name": "Grinning Face" },
+    { "emoji": "😁", "name": "Beaming Face with Smiling Eyes" },
+    { "emoji": "😃", "name": "Smiling Face with Open Mouth and Smiling Eyes" }
+  ],
+  "Sad": [
+    { "emoji": "😞", "name": "Disappointed Face" },
+    { "emoji": "😔", "name": "Pensive Face" }
+  ],
+  "Angry": [
+    { "emoji": "😡", "name": "Angry Face" },
+    { "emoji": "😠", "name": "Pouting Face" }
+  ],
+  "Excited": [
+    { "emoji": "🤩", "name": "Star-Struck" },
+    { "emoji": "😆", "name": "Grinning Face with Big Eyes" }
+  ]
+}
